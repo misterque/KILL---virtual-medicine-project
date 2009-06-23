@@ -1,0 +1,132 @@
+Was muss getan werden?
+==============================
+
+Modelle:
+allgemein:
+- keine Texturen (Begründung: UV-Mapping aufwendig, sieht nicht gut aus)
+- abstrahieren/leichter Comicstil (Begründung: sieht besser aus, ist einfacher)
+
+
+- Roboter alt (Verantwortlich Basti )
+   * Mesh
+   * Materials
+   * Bones
+   * Posen:
+	0) Initial (wird verwendet bei Fahren/Scannen) 
+	1) Kopf-Ab          \
+        2) Müll-Rein         - Burger wegschmeissen
+        3) Kopf-Zu          /
+	4) Burger-Greifen   (aus Mikrowelle)
+	5) Burger-Tragen
+
+   *  
+
+- Roboter neu (Verantwortlich Dirk, )
+   * Mesh
+   * Materials
+   * Bones
+   * Posen:
+	0) Initial
+	1) Burger-Greifen
+	2) Burger-Tragen (Kellner-Pose)
+	3) Burger-Werfen
+
+
+- Mikrowelle (Verantwortlich Thomas, )
+   * Mesh
+   * Materials
+
+- Patient & Sessel (Verantwortlich Jonas)
+   * Mesh
+   * Materials
+   * Bones (nur Oberkörper)
+   * Posen:
+	0) Initial
+	1) traurig (Mundwinkel unten)
+	2) reden1 (Mundwinkel oben)
+	3) fett
+	4) tot (Kreuze wo Augen wären)
+	5) Telefon am Kopf
+
+
+- Sprechblasen (Verantwortlich Jonas)
+  * no Robot 1
+  * yes Robot 2
+  * Fragezeichen
+  * Ausrufezeichen
+  * Burger!   
+
+- Telefon (Verantwortlich Julian)
+   * Mesh
+   * Materials
+
+
+- Wohnung (Verantwortlich Thomas)
+   * Mesh
+   * Materials
+   * Lights
+   * Skymap
+
+- Fernseher (Verantwortlich Julian)
+   * Mesh
+   * Materials
+   * Eigebettets Video oder anderes witziges
+
+
+- Burger (Verantwortlich Julian)
+   * Mesh
+   * Materials
+
+
+
+Storyboard
+
+Szene 1)
+---
+Kamerafahrt zur Mikrowelle
+RA öffnet Mikrowelle
+RA nimmt Burger
+RA trägt Burger zu Mario
+RA scannt Mario
+RA wirft Burger weg (KopfAbMüllReinKopfZu)
+
+Mario ist traurig (Mundwinkel unten)
+
+Mario nimmt Telefon
+und bestellt neuen Roboter (Sprechblasen)
+
+Szene 2)
+---
+Mario ordert Burger
+RN geht zu Mikrowelle
+und Holt Burger
+RN wirft Burger in Mario
+.
+.
+.
+Mario ist tot
+
+Szene 3)
+---
+Credits
+
+
+
+Meilensteine
+===
+
+Meilenstein 1)
+* alle Modells fertig 23.6.09
+
+Meilenstein 2)
+* Modells in Szene animiert 30.6.09
+
+Meilenstein 3)
+* Video fertig gerendert 
+
+Meilenstein 4)
+* Video nachsynchronisiert 7.7. nee... da hab ich Geburtstag... 
+- Womit und wie nachsynchronisieren? (Verantwortlich Basti)
+
+
+Aufgaben nach 
